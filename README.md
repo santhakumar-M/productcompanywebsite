@@ -1003,6 +1003,13 @@ a
 
 
 ### Products Page:
+
+
+
+
+
+
+
 ![output](output/products.png)
 
 ## Result:
